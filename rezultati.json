@@ -1,0 +1,69 @@
+{
+    "statistika": {
+        "ukupno_studenata": 8,
+        "prosjek_svih": 20.5,
+        "najbolji_student": "Ivana Marić",
+        "najbolji_prosjek": 29.0,
+        "najlosiji_student": "Petar Novak",
+        "najlosiji_prosjek": 8.75,
+        "prolaznost": 87.5,
+        "broj_proslih": 7,
+        "broj_palih": 1
+    },
+    "po_godini": {
+        "1": {
+            "broj_studenata": 4,
+            "prosjek": 19.75,
+            "prolaznost": 75
+        },
+        "2": {
+            "broj_studenata": 4,
+            "prosjek": 21.25,
+            "prolaznost": 100
+        }
+    },
+    "po_grupi": {
+        "A": {
+            "broj_studenata": 4,
+            "prosjek": 22.0,
+            "prolaznost": 100
+        },
+        "B": {
+            "broj_studenata": 4,
+            "prosjek": 19.0,
+            "prolaznost": 75
+        }
+    },
+    "po_kolokviju": {
+        "XML": {
+            "prosjek": 21.125,
+            "najbolji": 30,
+            "najlosiji": 10
+        },
+        "HTML": {
+            "prosjek": 21.625,
+            "najbolji": 29,
+            "najlosiji": 12
+        },
+        "CSS": {
+            "prosjek": 21.5,
+            "najbolji": 30,
+            "najlosiji": 8
+        },
+        "JavaScript": {
+            "prosjek": 20.375,
+            "najbolji": 28,
+            "najlosiji": 5
+        }
+    },
+    "rang_lista": [
+        {"ime": "Ivana Marić", "prosjek": 29.0, "grupa": "A"},
+        {"ime": "Tomislav Grgić", "prosjek": 28.25, "grupa": "B"},
+        {"ime": "Luka Babić", "prosjek": 25.0, "grupa": "B"},
+        {"ime": "Ana Horvat", "prosjek": 23.25, "grupa": "A"},
+        {"ime": "Marko Kovačević", "prosjek": 22.0, "grupa": "B"},
+        {"ime": "Maja Perić", "prosjek": 20.5, "grupa": "A"},
+        {"ime": "Eva Kralj", "prosjek": 14.5, "grupa": "A"},
+        {"ime": "Petar Novak", "prosjek": 8.75, "grupa": "B"}
+    ]
+}

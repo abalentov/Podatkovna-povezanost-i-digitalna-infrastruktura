@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="katalog.xsl"?>
+<Studenti>
+    <Student>
+        <Ime>Ana</Ime>
+        <Prezime>Horvat</Prezime>
+        <JMBG>1234567890123</JMBG>
+        <Grupa>A</Grupa>
+        <Godina>1</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">25</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">28</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">22</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">18</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Marko</Ime>
+        <Prezime>Kovačević</Prezime>
+        <JMBG>9876543210987</JMBG>
+        <Grupa>B</Grupa>
+        <Godina>1</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">15</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">20</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">25</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">28</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Ivana</Ime>
+        <Prezime>Marić</Prezime>
+        <JMBG>4561237890456</JMBG>
+        <Grupa>A</Grupa>
+        <Godina>2</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">30</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">29</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">28</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">27</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Petar</Ime>
+        <Prezime>Novak</Prezime>
+        <JMBG>7890123456789</JMBG>
+        <Grupa>B</Grupa>
+        <Godina>2</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">10</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">12</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">8</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">5</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Maja</Ime>
+        <Prezime>Perić</Prezime>
+        <JMBG>3216549870123</JMBG>
+        <Grupa>A</Grupa>
+        <Godina>1</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">20</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">22</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">19</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">21</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Luka</Ime>
+        <Prezime>Babić</Prezime>
+        <JMBG>1472583690147</JMBG>
+        <Grupa>B</Grupa>
+        <Godina>2</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">26</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">24</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">27</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">23</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Eva</Ime>
+        <Prezime>Kralj</Prezime>
+        <JMBG>2583691470258</JMBG>
+        <Grupa>A</Grupa>
+        <Godina>1</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">14</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">16</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">13</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">15</Kolokvij>
+        </Kolokviji>
+    </Student>
+    <Student>
+        <Ime>Tomislav</Ime>
+        <Prezime>Grgić</Prezime>
+        <JMBG>3691472580369</JMBG>
+        <Grupa>B</Grupa>
+        <Godina>2</Godina>
+        <Kolokviji>
+            <Kolokvij Naziv="XML" Maksimum="30">29</Kolokvij>
+            <Kolokvij Naziv="HTML" Maksimum="30">28</Kolokvij>
+            <Kolokvij Naziv="CSS" Maksimum="30">30</Kolokvij>
+            <Kolokvij Naziv="JavaScript" Maksimum="30">26</Kolokvij>
+        </Kolokviji>
+    </Student>
+</Studenti>
